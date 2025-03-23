@@ -1,0 +1,20 @@
+# NAVIX CERTIFICATION FOR SURVIVAL BUNKERS
+
+**CERTIFIED BY NAVIX Systems and Qualifiers**
+
+**STANDARD ID:** NAVIX-CERT-STD-001-A
+
+**RATING:** CIIINCII
+
+**STATUS:** Approved
+
+**DATE OF INSPECTION:** 3/23/2025
+
+**Inspector Code:** IC-1133293814946217994
+
+**NAVIX CERTIFIED**
+
+# WORLD INFORMATION
+**WORLD ID-BUILD-ID-LINK:** ("https//mediafire.com/test")
+
+**WORLD NAME:** NAVIX TEST SUMMIT ![NAVIX CERTIFIED](https://img.shields.io/badge/NAVIX-Certified-blue)
