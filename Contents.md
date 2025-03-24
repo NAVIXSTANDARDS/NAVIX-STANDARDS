@@ -1,22 +1,25 @@
 # FILE CONTENTS
 
 **CI**
-- Basic Standard Compliance
-- Can defend against zombies but not radiation or explosions, has security, vegetation, farms, storage
-- Can be easily damaged from moderate or medium proximity
+  - Basic Standard Compliance
+  - Can defend against zombies but not radiation or explosions, has security, vegetation, farms, storage
+  - Can be easily damaged from moderate or medium proximity
+
 **CII**
   - Intermediate can defend against zombies AND explosions but not Radiation, has security, decontamination, vegetation, farms, storage
   - Can be moderately damaged from moderate or medium proximity
+
 **CIII**
-- Advanced;
-- Can defend up to almost **Anything**, has security, decontamination, vegetation, farms, storage
-- Can be minorly damaged to close proximity, radiation shielding may break. To Super Close proximity
+  - Advanced;
+  - Can defend up to almost **Anything**, has security, decontamination, vegetation, farms, storage
+  - Can be minorly damaged to close proximity, radiation shielding may break. To Super Close proximity
+
 **CIV**
-- Mastery;
-- Can Defend everything, whether its a thermonuclear bomb or a bunker buster bomb.
-- has security, decontamination, vegetation, farms, storage
-- **MINOR** to **ZERO** Damage on nuclear bombs at Super Close Proximity or Close Proximity. Radiation Shielding still works
-- The **Highest** Rank ever.
+  - Mastery;
+  - Can Defend everything, whether its a thermonuclear bomb or a bunker buster bomb.
+  - has security, decontamination, vegetation, farms, storage
+  - **MINOR** to **ZERO** Damage on nuclear bombs at Super Close Proximity or Close Proximity. Radiation Shielding still works
+  - The **Highest** Rank ever.
 
 Those are Certification Levels
 
