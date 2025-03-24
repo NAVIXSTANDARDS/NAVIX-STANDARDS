@@ -20,5 +20,5 @@
 
 **WORLD ID-BUILD-ID-LINK:** [Working](https://about:blank)
 
-**WORLD NAME:** NAVIX-Research-Facility-500234 ![NAVIX Certified](https://img.shields.io/badge/NAVIX-Certified-blue)**
+**WORLD NAME:** NAVIX-Research-Facility-500234 ![NAVIX Certified](https://img.shields.io/badge/NAVIX-Certified-blue)
 
