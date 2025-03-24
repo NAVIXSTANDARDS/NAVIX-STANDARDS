@@ -31,8 +31,22 @@ Disapproved - Not Approved
 The Inspector codes are based off of Discord UserIDS which you can actually DM them.
 IF FORGOTTEN STD CODES:
 
+
+
+
 NAVIX-CERT-STD-(stringNum)-(A-Z).md 
+
+
+
 
 Certified Shield:
 
 ![NAVIX Certified](https://img.shields.io/badge/NAVIX-Certified-blue)
+
+
+Navix Disapproved Shield
+![NAVIX Disapproved](https://img.shields.io/badge/NAVIX-Disapproved-red)
+
+
+Navix Conditional Shield
+![NAVIX Conditional](https://img.shields.io/badge/NAVIX-Conditional-gray)
