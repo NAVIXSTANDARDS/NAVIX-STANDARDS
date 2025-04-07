@@ -18,6 +18,6 @@
 
 # WORLD INFORMATION
 
-**WORLD ID-BUILD-ID-LINK:** [LINK](https://www.mediafire.com/file/lp5o1m0ibwsj410/Survival+Condo+(NTM-extended+ver)+-+Copy.zip/file)
+**WORLD ID-BUILD-ID-LINK:** [LINK](https://www.mediafire.com/file/lp5o1m0ibwsj410/Survival_Condo_%2528NTM-extended_ver%2529_-_Copy.zip/file)
 
 **WORLD NAME:** NAVIX DOOMSDAY - B50241 ![NAVIX Certified](https://img.shields.io/badge/NAVIX-Certified-blue)**
